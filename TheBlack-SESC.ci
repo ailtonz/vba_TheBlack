@@ -1,0 +1,90 @@
+<*project
+      version = 4 civer = "Free v4.14.3" winver = "2.8/6.1.7600" > 
+   <output> C:\Users\Desktop</>
+   <exename> TheBlack-SESC-v100.exe</>
+   <digitsign> </>
+   <appname> The Black - SESC</>
+   <password> </>
+   <addlang> </>
+   <icon> Default</>
+   <selfextr> 1</>
+   <voltype> nolimit</>
+   <volsize> </>
+   <volpattern> disk%i.pak</>
+   <load> </>
+   <loadtime> 1000</>
+   <checktype> admin</>
+   <chkname> </>
+   <chkmsg> </>
+   <dlgfont> Verdana,8</>
+   <lang> Portuguese_br</>
+   <theme> Color</>
+   <iface> leftlogo</>
+   <leftlogo> </>
+   <logo> </>
+   <vb> </>
+   <dao> </>
+   <background> 0</>
+   <dlgwelcome> 0</>
+   <dlgreadme> </>
+   <dlglic> </>
+   <dlgcustpath> C:\TheBlack-SESC</>
+   <dlgenfpath> 1</>
+   <dlgsavepath> 1</>
+   <dlgautoprog> 1</>
+   <dlgfinish> 1</>
+   <comptype> defnorm</>
+   <solid> 1</>
+   <srcfolder> C:\TheBlack-SESC</>
+   <ifexist> asknewer</>
+   <runafter> </>
+   <runconfirm> 0</>
+   <uninclude> 1</>
+   <unicon> Uninstall</>
+   <unshortcut> 1</>
+   <unrun> </>
+   <silent> 0</>
+   <unfeed> </>
+   <unautoclose> 1</>
+   <unfinish> 1</>
+   <bl> My Demo</>
+   <blurl> </>
+   <bghead> </>
+   <bgfoot> </> 
+   <bgback> </>
+   <files listview >
+      <_><src>C:\Users\Desktop\TheBlack\TheBlack-SESC\TheBlack-SESC.mdb</><dest>inst</><custom></><ifexist>overnewer</><recurs>0</></>
+<_><src>C:\Users\Desktop\TheBlack\TheBlack-SESC\dbSesc.mdb</><dest>inst</><custom></><ifexist>overnewer</><recurs>0</></>
+
+   </files>
+   <runx listview >
+      
+   </runx>
+   <registry listview >
+      
+   </registry>
+   <shcut listview >
+      <_><shpath>prog</><shname>TheBlack-SESC</><tarpath>inst</><tarname>TheBlack-SESC.mdb</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>comdesk</><shname>TheBlack-SESC</><tarpath>inst</><tarname>TheBlack-SESC.mdb</><cmdline></><workpath>def</><workcust></><icon></></>
+
+   </shcut>
+   <ini listview >
+      
+   </ini>
+   <copy listview >
+      
+   </copy>
+   <activex listview >
+      
+   </activex>
+   <font listview >
+      
+   </font>
+   <ext listview >
+      
+   </ext>
+   <mreg listview >
+      
+   </mreg>
+   <macros> Pathadd=</>
+</project>
